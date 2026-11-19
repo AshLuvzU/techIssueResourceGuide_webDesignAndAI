@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
     "node_modules/@11ty/is-land/is-land.js": "js/is-land.js",
     "node_modules/petite-vue/dist/petite-vue.es.js": "js/petite-vue.js",
   });
+  eleventyConfig.addPassthroughCopy("./_src/threed-images/");
   // Bundle Three.js before every 11ty build
   eleventyConfig.on("eleventy.before", async () => {
     await esbuild.build({

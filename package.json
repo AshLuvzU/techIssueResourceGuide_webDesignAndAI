@@ -1,0 +1,23 @@
+{
+  "name": "techissueresourceguide_webdesignandai",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshLuvzU/techIssueResourceGuide_webDesignAndAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AshLuvzU/techIssueResourceGuide_webDesignAndAI/issues"
+  },
+  "homepage": "https://github.com/AshLuvzU/techIssueResourceGuide_webDesignAndAI#readme"
+}

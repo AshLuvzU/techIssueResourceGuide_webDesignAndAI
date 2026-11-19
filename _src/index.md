@@ -1,4 +1,4 @@
 ---
-title: Tech Resource Guide: Web Design and AI
+title: Tech Resource Guide Web Design and AI
 layout: base.njk
 ---

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AshLuvzU/techIssueResourceGuide_webDesignAndAI/issues"
   },
-  "homepage": "https://github.com/AshLuvzU/techIssueResourceGuide_webDesignAndAI#readme"
+  "homepage": "https://github.com/AshLuvzU/techIssueResourceGuide_webDesignAndAI#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
 }
